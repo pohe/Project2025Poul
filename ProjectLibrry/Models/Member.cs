@@ -12,7 +12,7 @@ namespace ProjectLibrry.Models
 
         public Member()
         {
-            
+            //Konstruktor
         }
     }
 }
