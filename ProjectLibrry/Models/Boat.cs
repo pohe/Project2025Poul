@@ -9,5 +9,10 @@ namespace ProjectLibrry.Models
     public class Boat
     {
         public int Id { get; set; }
+        //This is a comment
+        public void Udskriv()
+        {
+
+        }
     }
 }
